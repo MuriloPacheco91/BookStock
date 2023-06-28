@@ -1,0 +1,186 @@
+body{
+    width: 1440px;
+    height: 1024px;
+    background: linear-gradient(180deg, #000 0%, #1B1D24 100%);
+    position: fixed;
+}
+.bookstock{
+    color: #FFF;
+    font-size: 48px;
+    font-family: Inter;
+    text-decoration-line: underline;
+
+}
+.bookstockdiv{
+    width: 700px;
+    height: 58px; 
+    margin-left: 597px;
+    margin-right: 589px;
+    margin-bottom: 20px;
+    
+
+}
+.login{
+    width: 554px;
+    height: 523px;
+    margin-left: 447px;
+    margin-right: 439px;
+    flex-shrink: 0;
+    border-radius: 27px;
+    background: #2c2f38a8;
+}
+.linha{
+    width: 280.002px;
+    height: 1px;
+    background: #FFF;
+    margin-left: 137px;
+    margin-right: 137px;
+    margin-top: 166px;
+    margin-bottom: 357px;
+}
+.usuario{
+    color: white;
+    font-size: 16px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+    margin-left: 248px;
+   
+    margin-top: 200px;
+  
+    
+
+}
+#login {
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: center;
+
+    height: 100vh;
+
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+
+
+
+
+.card-content label {
+
+    color: #FFF;
+    font-size: 16px;
+    font-family: Inter;
+    text-align: center;
+
+}
+
+
+.card-content-area {
+
+    display: flex;
+
+    flex-direction: column;
+
+    margin-left: 137px;
+    margin-right: 137px;
+    padding-top: 166px;
+   
+
+}
+.card-content-area2 {
+
+    display: flex;
+
+    flex-direction: column;
+
+    margin-left: 137px;
+    margin-right: 137px;
+    padding-top: 96px;
+   
+
+}
+
+.card-content-area input {
+
+    margin-top: 10px;
+
+    padding:0 5px;
+
+    background-color: transparent;
+
+    border:none;
+
+    border-bottom: 1px solid #e1e1e1;
+
+    outline: none;
+
+    color: #fff;
+
+}
+.card-content-area2 input {
+
+    margin-top: 10px;
+
+    padding:0 5px;
+
+    background-color: transparent;
+
+    border:none;
+
+    border-bottom: 1px solid #e1e1e1;
+
+    outline: none;
+
+    color: #fff;
+
+}
+
+
+.card-footer {
+
+    display: flex;
+
+    flex-direction: column;
+
+}
+
+.Buttom{
+
+    width: 291px;
+    height: 53px;
+    flex-shrink: 0;
+    border-radius: 96px;
+    background: #0D1A4F;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    margin-left: 127px;
+    margin-right: 136px;
+    margin-top: 88px;
+    
+
+}
+.logar{
+    color: #FFF;
+    font-size: 20px;
+    font-family: Inter;
+    display: flex;
+    width: 94px;
+    height: 27px;
+    flex-direction: column;
+    flex-shrink: 0;
+    margin-left: 127px;
+    margin-right: 136px;
+    margin-top: 13px;
+
+
+}
+
+.card-footer .value {
+    color: #fff;
+
+
+
+}
